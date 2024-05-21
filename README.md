@@ -1,6 +1,8 @@
-[![MasterHead](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fflutter.dev%2Fevents%2Fflutter-forward&psig=AOvVaw1wTAWgZ3eSyJjP4etbvn56&ust=1716388964700000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjEg6v9noYDFQAAAAAdAAAAABBI)
+[![MasterHead](https://i.ytimg.com/vi/zKQYGKAe5W8/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Erkan GENÇ</h1>
 <h3 align="center">A passionate mobil developer from Turkey</h3>
+
+- 📫 How to reach me **gencerkan149@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erkangenc&show_icons=true&locale=en" alt="erkangenc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erkangenc&" alt="erkangenc" /></p>
-
