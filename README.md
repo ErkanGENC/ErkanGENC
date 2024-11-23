@@ -3,7 +3,7 @@
 <h3 align="center">A passionate mobil developer from Turkey</h3>
 
 - 📫 How to reach me **gencerkan149@gmail.com**
-- 📫 My notes are here -> https://app.gitbook.com/o/FDce1KSc7L84JNcyFedw/s/4NpnekGMdDgkDBYOQrcF/flutter/dart
+- 📫 My notes are here -> https://app.gitbook.com/o/FDce1KSc7L84JNcyFedw/s/4NpnekGMdDgkDBYOQrcF
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
