@@ -33,4 +33,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-![snake gif](https://github.com/ErkanGENC/ErkanGENC/blob/output/github-contribution-grid-snake.gif)
+
